@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace IdWeb.Controllers
 {
-	public class HomeController : Controller
+	public class HomeController : Controllerah
 	{
 		private readonly ILogger<HomeController> _logger;
 

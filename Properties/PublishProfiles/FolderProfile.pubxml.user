@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Gorea Andrei\source\repos\IdWeb\IdWeb\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
-    <History>True|2022-12-08T12:24:06.2707742Z;</History>
+    <History>True|2022-12-14T23:37:42.6220564Z;True|2022-12-08T14:59:52.4689292+02:00;True|2022-12-08T14:24:06.2707742+02:00;</History>
   </PropertyGroup>
 </Project>
